@@ -1,6 +1,8 @@
-/.venv
-/.venv312
-/.venv39
+venv312/
+venv39/
+venv310/
+venv*/
+.venv/
 *.csv
 /Lecture2
 /Lecture1
