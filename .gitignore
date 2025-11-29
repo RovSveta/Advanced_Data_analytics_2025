@@ -3,7 +3,7 @@ venv39/
 venv310/
 venv*/
 .venv/
-*.csv
+
 /Lecture2
 /Lecture1
 /Coursematerial
